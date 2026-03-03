@@ -7,19 +7,19 @@ To analyze long-term rainfall patterns in Chennai and identify seasonal trends a
 
 Tools Used:
 
-Python
-Pandas
-Matplotlib
-Seaborn
+Python,
+Pandas,
+Matplotlib,
+Seaborn.
 
 Key Analysis Performed:
 
-Data cleaning & preprocessing
-Feature engineering (Year & Month extraction)
-Year-wise rainfall trend
-Monthly rainfall distribution
-Seasonal pattern analysis
-Extreme rainfall detection
+Data cleaning & preprocessing,
+Feature engineering (Year & Month extraction),
+Year-wise rainfall trend,
+Monthly rainfall distribution,
+Seasonal pattern analysis,
+Extreme rainfall detection.
 
 Key Insights
 
